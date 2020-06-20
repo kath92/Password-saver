@@ -59,11 +59,7 @@ def main():
         else:
             print("Invalid input")
             continue
-
-""" EMPTY PICKLE LIST:
-(lp0
-.
-"""
+            
 
 if __name__ == '__main__':
     main()
